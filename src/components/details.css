@@ -1,0 +1,46 @@
+.ProseMirror {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ProseMirror p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  
+  .ProseMirror h1,
+  .ProseMirror h2,
+  .ProseMirror h3,
+  .ProseMirror h4,
+  .ProseMirror h5,
+  .ProseMirror h6 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .ProseMirror a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .ProseMirror a:hover {
+    text-decoration: underline;
+  }
+  
+  .ProseMirror ul,
+  .ProseMirror ol {
+    margin-bottom: 10px;
+  }
+  
+  .ProseMirror li {
+    margin-bottom: 5px;
+  }
+  
+
+  
